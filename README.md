@@ -68,3 +68,16 @@ Lancez l'application principale (GUI) :
 
 ```bash
 streamlit run gui.py
+```
+
+Une version CLI légère est également disponible via :
+
+```bash
+python app.py
+```
+
+## 📸 Aperçu
+L'application permet de charger plusieurs PDF via la barre latérale, de configurer les paramètres du RAG (taille des chunks, température) et de visualiser les sources utilisées pour chaque réponse.
+
+## 📝 Auteur
+LAOUAD Ayoub Master M2SI - INSEA, Rabat (Décembre 2025)
