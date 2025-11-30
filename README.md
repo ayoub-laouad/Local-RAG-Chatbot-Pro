@@ -44,7 +44,7 @@ Le projet repose sur une architecture modulaire décrite dans le rapport :
 ### Étapes
 1.  Clonez ce repository :
     ```bash
-    git clone [https://github.com/VOTRE-NOM/Local-RAG-Chatbot-Pro.git](https://github.com/VOTRE-NOM/Local-RAG-Chatbot-Pro.git)
+    git clone [https://github.com/ayoub-laouad/Local-RAG-Chatbot-Pro.git](https://github.com/ayoub-laouad/Local-RAG-Chatbot-Pro.git)
     cd Local-RAG-Chatbot-Pro
     ```
 
